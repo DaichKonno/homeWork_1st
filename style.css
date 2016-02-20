@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+.pics{
+
+}
+h1{
+  font-size: 30px;
+  font-weight: 600;
+}
+
+header h2{
+  float:left;
+}
+
+
+.clearfix {
+    display: inline-table;
+    min-height: 1px;
+}
+
+* html .clearfix {
+    height: 1px;
+}
+
+.clearfix {
+    display: block;
+}
+
+.clear {
+    clear: both;
+}
+
+li img {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #ccc;
+  float: left;
+  margin-bottom: 5px;
+  margin-right: 10px;
+}
+
+.text {
+  font-weight: 600;
+}
+
+h2{
+  font-size: 100%;
+  margin-bottom: -20px;
+}
+
+ul li {
+  clear: both;
+}
